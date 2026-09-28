@@ -1,0 +1,7 @@
+workspace/code/symbols
+workspace/code/symbols_g
+workspace/code/thermal_detonator
+workspace/code/thermal_detonator.c
+workspace/*.tar.gz
+workspace/core
+workspace/core.*
